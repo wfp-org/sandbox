@@ -1,0 +1,9 @@
+shell scripting:
+Q: what is a shell script?
+Ans: A shell script is a collection of commands to perform automated tasks in linux/unix OS
+Q: How does the shell intepret commands within a shell script?
+Ans: The shell intepret commands in chronological steps one line at a time
+Q: what is a shebang? #!/bin/bash
+Ans: A shebang is an indicator of what shell will be use to run the commands within the script
+Q: why do we need to learn shell scripting?
+Ans: we learn shell scripting to avoid repeating tasks and safe time of administration
